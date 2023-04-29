@@ -14,7 +14,7 @@ html{
 body{
     align-items: center;
     background: linear-gradient(320deg,
-    #a03329,
+    #a04f29,
     #040404,
     #25b9f4);
     display: flex;
@@ -88,3 +88,26 @@ body{
     #a03329fb,
     #040404cc);  
 }
+
+.calc-button:last-child:hover{
+    background-color: inherit;
+    color: inherit;
+}
+
+.calc-button:hover{
+    background-color: inherit;
+    color: inherit;
+}
+
+.calc-button:active{
+    background-color: #00719e;
+}
+
+.double{
+    flex-basis: 47%;
+}
+
+.trible{
+    flex-basis: 73%;
+}
+
