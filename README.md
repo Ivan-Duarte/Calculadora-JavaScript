@@ -22,12 +22,9 @@ Futuramente quero tentar implementar mais operações e corrigir alguns problema
 <div align="center">
 
 <h2>Tela da Aplicação<h2>
-  <img height="280mp" width="600mp" src="">
+  <img height="280mp" width="600mp" src="https://github.com/Ivan-Duarte/CalculadoraSimples-JavaScript/blob/main/prints/telaInicial.PNG">
   <br>
 <h2>Interação ao Click<h2>
-  <img height="280mp" width="600mp" src="">
-  <br>
-<h2>Resultados<h2>
-  <img height="280mp" width="600mp" src="">
+  <img height="280mp" width="600mp" src="https://github.com/Ivan-Duarte/CalculadoraSimples-JavaScript/blob/main/prints/PressionandoBot%C3%A3o.png">
   <br>
 </div>
